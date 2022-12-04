@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h1 class="h1">Seznam zaměstnanců preview</h1>
+<h1 class="h1">Seznam zaměstnanců</h1>
 
 <?php
 
